@@ -1,1 +1,1 @@
-# QuickSolve
+DESCRIPTION OF THE PROJECT
