@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/My Python Project/Build/CMakeFiles/python_package.dir
+C:/Users/Admin/Desktop/My Python Project/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Admin/Desktop/My Python Project/Build/CMakeFiles/ZERO_CHECK.dir

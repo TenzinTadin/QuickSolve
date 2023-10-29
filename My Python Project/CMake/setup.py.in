@@ -1,0 +1,12 @@
+from setuptools import setup, find_packages
+
+setup(
+    name='${PROJECT_NAME}',
+    version='${PROJECT_VERSION}',
+    packages=find_packages(),
+    entry_points={
+        'console_scripts': [
+            'shelll_script = Calculator:main'
+        ],
+    },
+)
