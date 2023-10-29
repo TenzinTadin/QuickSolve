@@ -2,11 +2,9 @@ on:
     push
 jobs:
     idle:
-        name: Idle job
         runs-on: ubuntu-latest
         steps:
             -
-                name: Idle job step #1
                 run: |
                     echo Idle Step
                     sleep 20

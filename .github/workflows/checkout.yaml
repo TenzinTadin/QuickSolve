@@ -1,0 +1,21 @@
+on:
+    push
+jobs:
+    checkout_repos:
+        name: Checkout prerequisites
+        runs-on: ubuntu-latest
+        steps:
+            -
+                name: Checkout current repo
+                uses: actions/checkout@v3
+            -
+                name: List directories #1
+                run: ls
+            -
+                name: Checkout repo in other path
+                uses: actions/checkout@v3
+                with:
+                    path: other-path
+            -
+                name: List directories #2
+                run: ls -la; ls -la other-path
