@@ -17,4 +17,6 @@ You need to have a basic understanding of programming concepts.
 Ensure you have a compatible operating system (Windows, macOS, Linux).
 
 Step 1: Install python3 or latest
-Step 2: 
+Step 2: Run build dependencies in terminal `bash build_dependencies.sh` 
+Step 3: Run `sh build.sh` to build the calculator.
+
