@@ -15,3 +15,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 Prerequisites
 You need to have a basic understanding of programming concepts.
 Ensure you have a compatible operating system (Windows, macOS, Linux).
+
+Step 1: Install python3 or latest
+Step 2: 
