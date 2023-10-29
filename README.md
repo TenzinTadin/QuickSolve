@@ -9,4 +9,9 @@ Its has error handling functionality for accepting only numerical inputs and per
 QuickSolve is an advance version of mathematic calculator.
 
 #Development Instruction:
+Getting Started
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
+Prerequisites
+You need to have a basic understanding of programming concepts.
+Ensure you have a compatible operating system (Windows, macOS, Linux).
